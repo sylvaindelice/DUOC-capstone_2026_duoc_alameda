@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-*.db
-.env
-venv/
-bin/
-.buildozer/
-*.egg-info/
