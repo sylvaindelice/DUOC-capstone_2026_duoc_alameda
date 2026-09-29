@@ -1,0 +1,5 @@
+# App móvil — Sistema de verificación de identidad
+kivy>=2.3
+kivymd>=1.2
+requests>=2.31
+plyer>=2.1
