@@ -58,3 +58,12 @@ Arquitectura de la solución (descripción o diagrama):
 
 La aplicación móvil captura las fotografías (registro y verificación) desde la cámara del dispositivo y las envía al backend mediante peticiones REST. El backend gestiona el registro de personas, ejecuta la comparación biométrica facial, registra los eventos de entrada/salida en la base de datos SQLite, y expone el historial de eventos. Un proceso programado (APScheduler) se encarga de las notificaciones automáticas por correo.
 
+
+
+
+
+## Demostración en video
+
+## Demostración en video
+
+Video de demostración del sistema funcionando (registro y verificación de identidad): [Ver video en Google Drive](https://drive.google.com/file/d/1FcV4BeSyaKFWJgUs0WopcBJQDMWukKHr/view?usp=sharing)
